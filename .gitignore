@@ -1,0 +1,43 @@
+# os
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# pdf export
+*.pdf
+
+# auxiliary files
+*.aux
+
+# bibliography files
+*.bbl
+
+# binary performance logs
+*.blg
+
+# log files
+*.log
+
+# list of figures
+*.lof
+
+# list of listings
+*.lol
+
+# list of tables
+*.lot
+
+# table of contents files
+*.toc
+
+# synctex synchronization files
+*.synctex
+
+# nomen clature files
+*.glo
+*.nlo
+*.ilg
+*.nls
+
+# latexian temp files
+TSWLatexianTemp_*.tex
