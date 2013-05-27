@@ -3,7 +3,6 @@ BIBTEX=/opt/local/bin/bibtex
 MAKEINDEX=/opt/local/bin/makeindex
 
 NAME=main
-DATE=`date +'%Y-%m-%d-%H%M%S'`
 
 main:
 	$(LATEX) $(NAME)
